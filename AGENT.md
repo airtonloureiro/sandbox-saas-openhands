@@ -1,0 +1,5 @@
+- Nao fazer deploy 
+- Nao apagar arquivos
+- Explicar o plano antes de alterar qualquer coisa
+- Listar todos os arquivos alterados no final
+- Não instalar pacote sem pedir antes
